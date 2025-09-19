@@ -14,5 +14,5 @@ The goal of this project is to provide a lightweight example for developers who 
 
 ## Technologies Used
 
-Blazor Server (.NET 8)
-Chart.js
+- Blazor Server (.NET 8)
+- Chart.js
